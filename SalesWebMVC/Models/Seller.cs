@@ -6,6 +6,7 @@ namespace SalesWebMVC.Models
 {
     public class Seller
     {
+
         public int ID { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
